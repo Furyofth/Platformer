@@ -1,4 +1,4 @@
-# Pong
-Pong!
-This Is pong
-We love Pong
+# Platformer
+Platformer!
+This Is a Platformer
+We love Platformers
